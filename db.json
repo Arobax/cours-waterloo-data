@@ -91,7 +91,9 @@
         "titre": "Exemple (à supprimer)",
         "sousTitre": "Matière de test",
         "annees": [
-          "6e secondaire"
+          "primaires",
+          "prépa études",
+          "3e secondaire"
         ],
         "emoji": "ℹ️",
         "couleur": "#b85c38",
