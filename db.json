@@ -1,52 +1,194 @@
 {
   "version": 1,
   "config": {
-    "damien": { "phone": "+32486409020", "email": "damien.alaerts@arwaterloo.be" },
-    "mathieu": { "phone": "+32493423656", "email": "mathieu.simar@arwaterloo.be" }
+    "damien": {
+      "phone": "+32486409020",
+      "email": "damien.alaerts@arwaterloo.be"
+    },
+    "mathieu": {
+      "phone": "+32493423656",
+      "email": "mathieu.simar@arwaterloo.be"
+    }
   },
   "disponibilites": {
     "damien": [
-      { "label": "Semaine (lundi–vendredi)", "status": "available", "text": "Disponible" },
-      { "label": "Week-end", "status": "available", "text": "Disponible" },
-      { "label": "Septembre", "status": "available", "text": "Disponible" },
-      { "label": "Octobre", "status": "available", "text": "Disponible" }
+      {
+        "label": "Semaine (lundi–vendredi)",
+        "status": "available",
+        "text": "Disponible"
+      },
+      {
+        "label": "Week-end",
+        "status": "available",
+        "text": "Disponible"
+      },
+      {
+        "label": "Septembre",
+        "status": "available",
+        "text": "Disponible"
+      },
+      {
+        "label": "Octobre",
+        "status": "available",
+        "text": "Disponible"
+      }
     ],
     "mathieu": [
-      { "label": "Semaine (lundi–vendredi)", "status": "available", "text": "Disponible" },
-      { "label": "Week-end", "status": "available", "text": "Disponible" },
-      { "label": "Septembre", "status": "available", "text": "Disponible" },
-      { "label": "Octobre", "status": "available", "text": "Disponible(temptest)" }
+      {
+        "label": "Semaine (lundi–vendredi)",
+        "status": "available",
+        "text": "Disponible"
+      },
+      {
+        "label": "Week-end",
+        "status": "available",
+        "text": "Disponible"
+      },
+      {
+        "label": "Septembre",
+        "status": "available",
+        "text": "Disponible"
+      },
+      {
+        "label": "Octobre",
+        "status": "available",
+        "text": "Disponible(temptestv2)"
+      }
     ]
   },
   "syntheses": {
-    "annees": ["primaires", "1re secondaire", "2e secondaire", "3e secondaire", "4e secondaire", "5e secondaire", "6e secondaire", "prépa études"],
+    "annees": [
+      "primaires",
+      "1re secondaire",
+      "2e secondaire",
+      "3e secondaire",
+      "4e secondaire",
+      "5e secondaire",
+      "6e secondaire",
+      "prépa études"
+    ],
     "matieres": [
       {
         "id": "exemple",
         "titre": "Exemple (à supprimer)",
         "sousTitre": "Matière de test",
-        "annees": ["6e secondaire"],
+        "annees": [
+          "6e secondaire"
+        ],
         "emoji": "📚",
         "couleur": "#b85c38",
         "unites": [
-          { "id": "exemple-1", "titre": "Unité de test", "dossier": "exemple", "statut": "visible" }
+          {
+            "id": "exemple-1",
+            "titre": "Unité de test",
+            "dossier": "exemple",
+            "statut": "visible"
+          }
         ]
       }
     ]
   },
   "outils": [
-    { "id": "account-manager", "nom": "Account manager", "lien": "/account-manager/", "description": "Gestionnaire de comptes.", "couleurFond": "#fdf0e0", "couleurTexte": "#211009", "emojis": "🔑" },
-    { "id": "chest-generator", "nom": "Chest generator", "lien": "/chest-generator/", "description": "Générateur de coffres.", "couleurFond": "#211009", "couleurTexte": "#fdf0e0", "emojis": "🧰" },
-    { "id": "crystal", "nom": "Crystal", "lien": "/crystal/", "description": "Outil Crystal.", "couleurFond": "#b85c38", "couleurTexte": "#fffaf4", "emojis": "💎" },
-    { "id": "routine", "nom": "Routine", "lien": "/routine/", "description": "Suivi de routine.", "couleurFond": "#f5e0c8", "couleurTexte": "#211009", "emojis": "🗓️" },
-    { "id": "spring-calculator", "nom": "Spring calculator", "lien": "/spring-calculator/", "description": "Calculateur de ressorts.", "couleurFond": "#fdf0e0", "couleurTexte": "#211009", "emojis": "🔩" }
+    {
+      "id": "account-manager",
+      "nom": "Account manager",
+      "lien": "/account-manager/",
+      "description": "Gestionnaire de comptes.",
+      "couleurFond": "#fdf0e0",
+      "couleurTexte": "#211009",
+      "emojis": "🔑"
+    },
+    {
+      "id": "chest-generator",
+      "nom": "Chest generator",
+      "lien": "/chest-generator/",
+      "description": "Générateur de coffres.",
+      "couleurFond": "#211009",
+      "couleurTexte": "#fdf0e0",
+      "emojis": "🧰"
+    },
+    {
+      "id": "crystal",
+      "nom": "Crystal",
+      "lien": "/crystal/",
+      "description": "Outil Crystal.",
+      "couleurFond": "#b85c38",
+      "couleurTexte": "#fffaf4",
+      "emojis": "💎"
+    },
+    {
+      "id": "routine",
+      "nom": "Routine",
+      "lien": "/routine/",
+      "description": "Suivi de routine.",
+      "couleurFond": "#f5e0c8",
+      "couleurTexte": "#211009",
+      "emojis": "🗓️"
+    },
+    {
+      "id": "spring-calculator",
+      "nom": "Spring calculator",
+      "lien": "/spring-calculator/",
+      "description": "Calculateur de ressorts.",
+      "couleurFond": "#fdf0e0",
+      "couleurTexte": "#211009",
+      "emojis": "🔩"
+    }
   ],
   "presentations": [
-    { "id": "arctique", "nom": "L'Arctique", "lien": "/arctique/", "description": "Enjeux géopolitiques, routes maritimes et ressources de l'Arctique.", "couleurFond": "#f5e0c8", "couleurTexte": "#211009", "emojis": "🧊🐻‍❄️" },
-    { "id": "sable", "nom": "Sables bitumineux", "lien": "/sable/", "description": "L'extraction du pétrole en Alberta.", "couleurFond": "#211009", "couleurTexte": "#fdf0e0", "emojis": "🛢️" },
-    { "id": "nucleaire", "nom": "Le nucléaire", "lien": "/nucleaire/", "description": "Présentation sur le nucléaire.", "couleurFond": "#fdf0e0", "couleurTexte": "#211009", "emojis": "⚛️" },
-    { "id": "extension-du-feminin", "nom": "Extension du féminin", "lien": "/extension-du-feminin/", "description": "Présentation sur l'extension du féminin.", "couleurFond": "#b85c38", "couleurTexte": "#fffaf4", "emojis": "✍️" },
-    { "id": "videoclub", "nom": "Vidéoclub", "lien": "/videoclub/", "description": "Exposé sur un groupe de musique, avec extraits.", "couleurFond": "#f5e0c8", "couleurTexte": "#211009", "emojis": "🎬" },
-    { "id": "flandria", "nom": "Flandria Nieuws", "lien": "/www.flandria-nieuws.be/wetenschap-samenleving/2026/08/27/roodharigen-verdienen-gemiddeld-12-meer-op-de-werkvloer-blijkt-uit-nieuw-onderzoek-4TSY5BIPY5FTVJFT3WNEY4YRQ4/", "description": "Article parodique en néerlandais.", "couleurFond": "#fdf0e0", "couleurTexte": "#211009", "emojis": "📰" }
+    {
+      "id": "arctique",
+      "nom": "L'Arctique",
+      "lien": "/arctique/",
+      "description": "Enjeux géopolitiques, routes maritimes et ressources de l'Arctique.",
+      "couleurFond": "#f5e0c8",
+      "couleurTexte": "#211009",
+      "emojis": "🧊🐻‍❄️"
+    },
+    {
+      "id": "sable",
+      "nom": "Sables bitumineux",
+      "lien": "/sable/",
+      "description": "L'extraction du pétrole en Alberta.",
+      "couleurFond": "#211009",
+      "couleurTexte": "#fdf0e0",
+      "emojis": "🛢️"
+    },
+    {
+      "id": "nucleaire",
+      "nom": "Le nucléaire",
+      "lien": "/nucleaire/",
+      "description": "Présentation sur le nucléaire.",
+      "couleurFond": "#fdf0e0",
+      "couleurTexte": "#211009",
+      "emojis": "⚛️"
+    },
+    {
+      "id": "extension-du-feminin",
+      "nom": "Extension du féminin",
+      "lien": "/extension-du-feminin/",
+      "description": "Présentation sur l'extension du féminin.",
+      "couleurFond": "#b85c38",
+      "couleurTexte": "#fffaf4",
+      "emojis": "✍️"
+    },
+    {
+      "id": "videoclub",
+      "nom": "Vidéoclub",
+      "lien": "/videoclub/",
+      "description": "Exposé sur un groupe de musique, avec extraits.",
+      "couleurFond": "#f5e0c8",
+      "couleurTexte": "#211009",
+      "emojis": "🎬"
+    },
+    {
+      "id": "flandria",
+      "nom": "Flandria Nieuws",
+      "lien": "/www.flandria-nieuws.be/wetenschap-samenleving/2026/08/27/roodharigen-verdienen-gemiddeld-12-meer-op-de-werkvloer-blijkt-uit-nieuw-onderzoek-4TSY5BIPY5FTVJFT3WNEY4YRQ4/",
+      "description": "Article parodique en néerlandais.",
+      "couleurFond": "#fdf0e0",
+      "couleurTexte": "#211009",
+      "emojis": "📰"
+    }
   ]
 }
