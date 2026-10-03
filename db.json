@@ -87,6 +87,73 @@
         ]
       },
       {
+        "id": "mnqz3z",
+        "titre": "Chimie",
+        "sousTitre": "Mr Djokoto",
+        "annees": [
+          "5e secondaire"
+        ],
+        "emoji": "🧪",
+        "couleur": "#5e3a52",
+        "unites": [
+          {
+            "id": "u8t75o",
+            "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
+            "dossier": "u-txqch",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
+        "id": "m3h66y",
+        "titre": "Physique",
+        "sousTitre": "Mme Lefèvre",
+        "annees": [
+          "5e secondaire"
+        ],
+        "emoji": "🪐",
+        "couleur": "#b85c38",
+        "unites": [
+          {
+            "id": "ujjrm1",
+            "titre": "Forces et Charges éléctriques",
+            "dossier": "u-e7i8t",
+            "statut": "visible"
+          },
+          {
+            "id": "u9i46d",
+            "titre": "Toutes formules 5e secondaire",
+            "dossier": "u-7tuso",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
+        "id": "mpd73n",
+        "titre": "Français",
+        "sousTitre": "Mme Dumont, Mr Dessaucy",
+        "annees": [
+          "5e secondaire",
+          "6e secondaire"
+        ],
+        "emoji": "📚",
+        "couleur": "#3f5f73",
+        "unites": [
+          {
+            "id": "u6n0b1",
+            "titre": "Dissertations",
+            "dossier": "u-t2ibk",
+            "statut": "visible"
+          },
+          {
+            "id": "ulalvr",
+            "titre": "Le classicisme",
+            "dossier": "u-tz1ij",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
         "id": "exemple",
         "titre": "Exemple (à supprimer)",
         "sousTitre": "Matière de test",
@@ -96,7 +163,7 @@
           "3e secondaire"
         ],
         "emoji": "ℹ️",
-        "couleur": "#b85c38",
+        "couleur": "#f5e0c8",
         "unites": [
           {
             "id": "exemple-1",
