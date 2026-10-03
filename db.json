@@ -15,7 +15,7 @@
       { "label": "Semaine (lundi–vendredi)", "status": "available", "text": "Disponible" },
       { "label": "Week-end", "status": "available", "text": "Disponible" },
       { "label": "Septembre", "status": "available", "text": "Disponible" },
-      { "label": "Octobre", "status": "available", "text": "Disponible" }
+      { "label": "Octobre", "status": "available", "text": "Disponible(temptest)" }
     ]
   },
   "syntheses": {
