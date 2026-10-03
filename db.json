@@ -23,14 +23,14 @@
         "text": "Disponible"
       },
       {
-        "label": "Septembre",
+        "label": "Octobre",
         "status": "available",
         "text": "Disponible"
       },
       {
-        "label": "Octobre",
-        "status": "available",
-        "text": "Disponible"
+        "label": "Vacances d'automne",
+        "status": "partial",
+        "text": "À vérifier"
       }
     ],
     "mathieu": [
@@ -45,14 +45,14 @@
         "text": "Disponible"
       },
       {
-        "label": "Septembre",
-        "status": "available",
-        "text": "Disponible"
-      },
-      {
         "label": "Octobre",
         "status": "available",
         "text": "Disponible(temptestv2)"
+      },
+      {
+        "label": "Vacances d'automne",
+        "status": "partial",
+        "text": "À vérifier"
       }
     ]
   },
@@ -69,13 +69,31 @@
     ],
     "matieres": [
       {
+        "id": "mws2u3",
+        "titre": "Histoire",
+        "sousTitre": "Mme Fayt",
+        "annees": [
+          "6e secondaire"
+        ],
+        "emoji": "⏳",
+        "couleur": "#8fa37e",
+        "unites": [
+          {
+            "id": "uysmbj",
+            "titre": "La guerre froide — Partie 1",
+            "dossier": "u-gxv4k",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
         "id": "exemple",
         "titre": "Exemple (à supprimer)",
         "sousTitre": "Matière de test",
         "annees": [
           "6e secondaire"
         ],
-        "emoji": "📚",
+        "emoji": "ℹ️",
         "couleur": "#b85c38",
         "unites": [
           {
@@ -90,59 +108,86 @@
   },
   "outils": [
     {
-      "id": "account-manager",
-      "nom": "Account manager",
-      "lien": "/account-manager/",
-      "description": "Gestionnaire de comptes.",
-      "couleurFond": "#fdf0e0",
-      "couleurTexte": "#211009",
-      "emojis": "🔑"
-    },
-    {
-      "id": "chest-generator",
-      "nom": "Chest generator",
-      "lien": "/chest-generator/",
-      "description": "Générateur de coffres.",
-      "couleurFond": "#211009",
+      "id": "spring-calculator",
+      "nom": "Spring calculator",
+      "lien": "/spring-calculator/",
+      "description": "Simulateur dynamique d'oscillateurs harmoniques.",
+      "couleurFond": "#3f5f73",
       "couleurTexte": "#fdf0e0",
-      "emojis": "🧰"
-    },
-    {
-      "id": "crystal",
-      "nom": "Crystal",
-      "lien": "/crystal/",
-      "description": "Outil Crystal.",
-      "couleurFond": "#b85c38",
-      "couleurTexte": "#fffaf4",
-      "emojis": "💎"
+      "emojis": "🔩"
     },
     {
       "id": "routine",
       "nom": "Routine",
       "lien": "/routine/",
-      "description": "Suivi de routine.",
-      "couleurFond": "#f5e0c8",
-      "couleurTexte": "#211009",
+      "description": "Générateur de routine une fois rentré à la maison, pour garder un horaire de sommeil correct.",
+      "couleurFond": "#6b7a3a",
+      "couleurTexte": "#fdf0e0",
       "emojis": "🗓️"
     },
     {
-      "id": "spring-calculator",
-      "nom": "Spring calculator",
-      "lien": "/spring-calculator/",
-      "description": "Calculateur de ressorts.",
-      "couleurFond": "#fdf0e0",
-      "couleurTexte": "#211009",
-      "emojis": "🔩"
+      "id": "chest-generator",
+      "nom": "Chest generator",
+      "lien": "/chest-generator/",
+      "description": "Génère une commande permettant de placer un coffre plausiblement utilisé par des joueurs en survie sur Minecraft.",
+      "couleurFond": "#d4804a",
+      "couleurTexte": "#fdf0e0",
+      "emojis": "🪎"
+    },
+    {
+      "id": "crystal",
+      "nom": "Crystalling speed test",
+      "lien": "/crystal/",
+      "description": "Évalue quelle serait votre vitesse de crystalling en cpvp sur Minecraft.",
+      "couleurFond": "#3f5f73",
+      "couleurTexte": "#f5e0c8",
+      "emojis": "💎"
+    },
+    {
+      "id": "account-manager",
+      "nom": "Account manager (Personnal Use)",
+      "lien": "/account-manager/",
+      "description": "Gestionnaire de comptes, pas d'inêret public.",
+      "couleurFond": "#211009",
+      "couleurTexte": "#fdf0e0",
+      "emojis": "🔑"
     }
   ],
   "presentations": [
+    {
+      "id": "extension-du-feminin",
+      "nom": "Extension du féminin",
+      "lien": "/extension-du-feminin/",
+      "description": "Présentation sur l'extension du féminin.",
+      "couleurFond": "#d9a79a",
+      "couleurTexte": "#fffaf4",
+      "emojis": "✍️"
+    },
+    {
+      "id": "flandria",
+      "nom": "Flandria Nieuws",
+      "lien": "/www.flandria-nieuws.be/wetenschap-samenleving/2026/08/27/roodharigen-verdienen-gemiddeld-12-meer-op-de-werkvloer-blijkt-uit-nieuw-onderzoek-4TSY5BIPY5FTVJFT3WNEY4YRQ4/",
+      "description": "Article parodique en néerlandais.",
+      "couleurFond": "#8fa37e",
+      "couleurTexte": "#fdf0e0",
+      "emojis": "📰"
+    },
+    {
+      "id": "videoclub",
+      "nom": "Vidéoclub",
+      "lien": "/videoclub/",
+      "description": "Exposé sur un groupe de musique, avec extraits.",
+      "couleurFond": "#5e3a52",
+      "couleurTexte": "#fdf0e0",
+      "emojis": "🎬"
+    },
     {
       "id": "arctique",
       "nom": "L'Arctique",
       "lien": "/arctique/",
       "description": "Enjeux géopolitiques, routes maritimes et ressources de l'Arctique.",
-      "couleurFond": "#f5e0c8",
-      "couleurTexte": "#211009",
+      "couleurFond": "#3f5f73",
+      "couleurTexte": "#f5e0c8",
       "emojis": "🧊🐻‍❄️"
     },
     {
@@ -150,8 +195,8 @@
       "nom": "Sables bitumineux",
       "lien": "/sable/",
       "description": "L'extraction du pétrole en Alberta.",
-      "couleurFond": "#211009",
-      "couleurTexte": "#fdf0e0",
+      "couleurFond": "#c9962b",
+      "couleurTexte": "#211009",
       "emojis": "🛢️"
     },
     {
@@ -159,36 +204,9 @@
       "nom": "Le nucléaire",
       "lien": "/nucleaire/",
       "description": "Présentation sur le nucléaire.",
-      "couleurFond": "#fdf0e0",
-      "couleurTexte": "#211009",
-      "emojis": "⚛️"
-    },
-    {
-      "id": "extension-du-feminin",
-      "nom": "Extension du féminin",
-      "lien": "/extension-du-feminin/",
-      "description": "Présentation sur l'extension du féminin.",
-      "couleurFond": "#b85c38",
-      "couleurTexte": "#fffaf4",
-      "emojis": "✍️"
-    },
-    {
-      "id": "videoclub",
-      "nom": "Vidéoclub",
-      "lien": "/videoclub/",
-      "description": "Exposé sur un groupe de musique, avec extraits.",
-      "couleurFond": "#f5e0c8",
-      "couleurTexte": "#211009",
-      "emojis": "🎬"
-    },
-    {
-      "id": "flandria",
-      "nom": "Flandria Nieuws",
-      "lien": "/www.flandria-nieuws.be/wetenschap-samenleving/2026/08/27/roodharigen-verdienen-gemiddeld-12-meer-op-de-werkvloer-blijkt-uit-nieuw-onderzoek-4TSY5BIPY5FTVJFT3WNEY4YRQ4/",
-      "description": "Article parodique en néerlandais.",
-      "couleurFond": "#fdf0e0",
-      "couleurTexte": "#211009",
-      "emojis": "📰"
+      "couleurFond": "#7a2e2e",
+      "couleurTexte": "#f5e0c8",
+      "emojis": "☢️"
     }
   ]
 }
