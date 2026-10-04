@@ -216,7 +216,7 @@
       "id": "account-manager",
       "nom": "Account manager (Personnal Use)",
       "lien": "/account-manager/",
-      "description": "Gestionnaire de comptes, pas d'inêret public.",
+      "description": "Gestionnaire de comptes, pas d'intérêt public.",
       "couleurFond": "#211009",
       "couleurTexte": "#fdf0e0",
       "emojis": "🔑"
