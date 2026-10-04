@@ -227,7 +227,7 @@
       "id": "extension-du-feminin",
       "nom": "Extension du féminin",
       "lien": "/extension-du-feminin/",
-      "description": "Présentation sur l'extension du féminin.",
+      "description": "Présentation sur l'extension du féminin dans la langue française, debunk par des linguistes.",
       "couleurFond": "#d9a79a",
       "couleurTexte": "#fffaf4",
       "emojis": "✍️"
@@ -245,7 +245,7 @@
       "id": "videoclub",
       "nom": "Vidéoclub",
       "lien": "/videoclub/",
-      "description": "Exposé sur un groupe de musique, avec extraits.",
+      "description": "Le groupe de musique, démonstration que la musique peut-être aussi riche linguistiquement qu'un poème.",
       "couleurFond": "#5e3a52",
       "couleurTexte": "#fdf0e0",
       "emojis": "🎬"
@@ -272,7 +272,7 @@
       "id": "nucleaire",
       "nom": "Le nucléaire",
       "lien": "/nucleaire/",
-      "description": "Présentation sur le nucléaire.",
+      "description": "Présentation sur le nucléaire et ses enjeux.",
       "couleurFond": "#7a2e2e",
       "couleurTexte": "#f5e0c8",
       "emojis": "☢️"
