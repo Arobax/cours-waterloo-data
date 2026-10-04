@@ -69,6 +69,15 @@
     ],
     "matieres": [
       {
+        "id": "mkyzjz",
+        "titre": "Début de la page synthèses !",
+        "sousTitre": "Pleins de nouvelles synthèses arriveront vite !",
+        "annees": [],
+        "emoji": "📝",
+        "couleur": "#fffaf4",
+        "unites": []
+      },
+      {
         "id": "mnqz3z",
         "titre": "Chimie",
         "sousTitre": "Mr Djokoto",
