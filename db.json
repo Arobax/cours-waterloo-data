@@ -85,19 +85,19 @@
         ]
       },
       {
-        "id": "mnqz3z",
-        "titre": "Chimie",
-        "sousTitre": "Mr Djokoto",
+        "id": "mmxftd",
+        "titre": "Anglais",
+        "sousTitre": "Mme Adyns",
         "annees": [
-          "5e secondaire"
+          "6e secondaire"
         ],
-        "emoji": "🧪",
-        "couleur": "#5e3a52",
+        "emoji": "🇬🇧",
+        "couleur": "#7a2e2e",
         "unites": [
           {
-            "id": "u8t75o",
-            "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
-            "dossier": "u-txqch",
+            "id": "ugcdh3",
+            "titre": "Livre : Death in the Dojo",
+            "dossier": "u-mszij",
             "statut": "visible"
           }
         ]
@@ -116,6 +116,24 @@
             "id": "uysmbj",
             "titre": "La guerre froide — Partie 1",
             "dossier": "u-gxv4k",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
+        "id": "mnqz3z",
+        "titre": "Chimie",
+        "sousTitre": "Mr Djokoto",
+        "annees": [
+          "5e secondaire"
+        ],
+        "emoji": "🧪",
+        "couleur": "#5e3a52",
+        "unites": [
+          {
+            "id": "u8t75o",
+            "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
+            "dossier": "u-txqch",
             "statut": "visible"
           }
         ]
