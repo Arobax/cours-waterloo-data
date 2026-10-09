@@ -103,24 +103,6 @@
         ]
       },
       {
-        "id": "mws2u3",
-        "titre": "Histoire",
-        "sousTitre": "Mme Fayt",
-        "annees": [
-          "6e secondaire"
-        ],
-        "emoji": "⏳",
-        "couleur": "#8fa37e",
-        "unites": [
-          {
-            "id": "uysmbj",
-            "titre": "La guerre froide — Partie 1",
-            "dossier": "u-gxv4k",
-            "statut": "visible"
-          }
-        ]
-      },
-      {
         "id": "mnqz3z",
         "titre": "Chimie",
         "sousTitre": "Mr Djokoto",
@@ -134,6 +116,24 @@
             "id": "u8t75o",
             "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
             "dossier": "u-txqch",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
+        "id": "mws2u3",
+        "titre": "Histoire",
+        "sousTitre": "Mme Fayt",
+        "annees": [
+          "6e secondaire"
+        ],
+        "emoji": "⏳",
+        "couleur": "#8fa37e",
+        "unites": [
+          {
+            "id": "uysmbj",
+            "titre": "La guerre froide — Partie 1",
+            "dossier": "u-gxv4k",
             "statut": "visible"
           }
         ]
