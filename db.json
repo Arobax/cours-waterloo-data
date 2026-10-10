@@ -258,6 +258,15 @@
   ],
   "presentations": [
     {
+      "id": "xjzzv",
+      "nom": "Identité : Qu'est-ce qui nous définit ?",
+      "lien": "/identite",
+      "description": "Synthétisation, approfondissement et opinion de l'essai \"Identité : Qu'est-ce qui nous définit ?\" de Vanessa Springora.",
+      "couleurFond": "#6b7a3a",
+      "couleurTexte": "#f5e0c8",
+      "emojis": "🫆"
+    },
+    {
       "id": "extension-du-feminin",
       "nom": "Extension du féminin",
       "lien": "/extension-du-feminin/",
