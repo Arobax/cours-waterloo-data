@@ -85,6 +85,37 @@
         ]
       },
       {
+        "id": "mpd73n",
+        "titre": "Français",
+        "sousTitre": "Mme Dumont, Mr Dessaucy",
+        "annees": [
+          "5e secondaire",
+          "6e secondaire"
+        ],
+        "emoji": "📚",
+        "couleur": "#3f5f73",
+        "unites": [
+          {
+            "id": "unsoz2",
+            "titre": "Livre : Le Turquetto",
+            "dossier": "u-92r8a",
+            "statut": "visible"
+          },
+          {
+            "id": "u6n0b1",
+            "titre": "Dissertations",
+            "dossier": "u-t2ibk",
+            "statut": "visible"
+          },
+          {
+            "id": "ulalvr",
+            "titre": "Le classicisme",
+            "dossier": "u-tz1ij",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
         "id": "mmxftd",
         "titre": "Anglais",
         "sousTitre": "Mme Adyns",
@@ -158,31 +189,6 @@
             "id": "u9i46d",
             "titre": "Toutes formules 5e secondaire",
             "dossier": "u-7tuso",
-            "statut": "visible"
-          }
-        ]
-      },
-      {
-        "id": "mpd73n",
-        "titre": "Français",
-        "sousTitre": "Mme Dumont, Mr Dessaucy",
-        "annees": [
-          "5e secondaire",
-          "6e secondaire"
-        ],
-        "emoji": "📚",
-        "couleur": "#3f5f73",
-        "unites": [
-          {
-            "id": "u6n0b1",
-            "titre": "Dissertations",
-            "dossier": "u-t2ibk",
-            "statut": "visible"
-          },
-          {
-            "id": "ulalvr",
-            "titre": "Le classicisme",
-            "dossier": "u-tz1ij",
             "statut": "visible"
           }
         ]
