@@ -23,12 +23,12 @@
         "text": "Disponible"
       },
       {
-        "label": "Octobre",
+        "label": "Novembre",
         "status": "available",
         "text": "Disponible"
       },
       {
-        "label": "2ème semaine des vacances d'automne",
+        "label": "Examens de Décembre",
         "status": "available",
         "text": "Disponible"
       }
@@ -45,13 +45,13 @@
         "text": "Disponible"
       },
       {
-        "label": "Octobre",
+        "label": "Novembre",
         "status": "available",
         "text": "Disponible"
       },
       {
-        "label": "Vacances d'automne",
-        "status": "partial",
+        "label": "Examens de Décembre",
+        "status": "available",
         "text": "À vérifier"
       }
     ]
