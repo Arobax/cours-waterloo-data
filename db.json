@@ -85,6 +85,30 @@
         ]
       },
       {
+        "id": "mnqz3z",
+        "titre": "Chimie",
+        "sousTitre": "Mr Maquestiau, Mr Djokoto",
+        "annees": [
+          "5e secondaire"
+        ],
+        "emoji": "🧪",
+        "couleur": "#5e3a52",
+        "unites": [
+          {
+            "id": "uchdjq",
+            "titre": "Alcènes et polymères",
+            "dossier": "u-n14k7",
+            "statut": "visible"
+          },
+          {
+            "id": "u8t75o",
+            "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
+            "dossier": "u-txqch",
+            "statut": "visible"
+          }
+        ]
+      },
+      {
         "id": "mpd73n",
         "titre": "Français",
         "sousTitre": "Mme Dumont, Mr Dessaucy",
@@ -129,30 +153,6 @@
             "id": "ugcdh3",
             "titre": "Livre : Death in the Dojo",
             "dossier": "u-mszij",
-            "statut": "visible"
-          }
-        ]
-      },
-      {
-        "id": "mnqz3z",
-        "titre": "Chimie",
-        "sousTitre": "Mr Maquestiau, Mr Djokoto",
-        "annees": [
-          "5e secondaire"
-        ],
-        "emoji": "🧪",
-        "couleur": "#5e3a52",
-        "unites": [
-          {
-            "id": "uchdjq",
-            "titre": "Alcènes et polymères",
-            "dossier": "u-n14k7",
-            "statut": "visible"
-          },
-          {
-            "id": "u8t75o",
-            "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
-            "dossier": "u-txqch",
             "statut": "visible"
           }
         ]
