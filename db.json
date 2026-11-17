@@ -223,6 +223,15 @@
   },
   "outils": [
     {
+      "id": "t7w92",
+      "nom": "Échelles logarithmiques",
+      "lien": "/logarithme",
+      "description": "Un outil qui permet de visualiser concrètement l'utilité et le rôle des échelles logarithmiques.",
+      "couleurFond": "#fdf0e0",
+      "couleurTexte": "#211009",
+      "emojis": "📈"
+    },
+    {
       "id": "spring-calculator",
       "nom": "Spring calculator",
       "lien": "/spring-calculator/",
