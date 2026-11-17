@@ -136,13 +136,19 @@
       {
         "id": "mnqz3z",
         "titre": "Chimie",
-        "sousTitre": "Mr Djokoto",
+        "sousTitre": "Mr Maquestiau, Mr Djokoto",
         "annees": [
           "5e secondaire"
         ],
         "emoji": "🧪",
         "couleur": "#5e3a52",
         "unites": [
+          {
+            "id": "uchdjq",
+            "titre": "Alcènes et polymères",
+            "dossier": "u-n14k7",
+            "statut": "visible"
+          },
           {
             "id": "u8t75o",
             "titre": "Liaisons chimiques (covalentes, ioniques, métalliques,...)",
