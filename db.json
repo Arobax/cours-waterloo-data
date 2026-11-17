@@ -227,8 +227,8 @@
       "nom": "Échelles logarithmiques",
       "lien": "/logarithme",
       "description": "Un outil qui permet de visualiser concrètement l'utilité et le rôle des échelles logarithmiques.",
-      "couleurFond": "#fdf0e0",
-      "couleurTexte": "#211009",
+      "couleurFond": "#5e3a52",
+      "couleurTexte": "#f5e0c8",
       "emojis": "📈"
     },
     {
