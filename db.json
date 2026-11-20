@@ -224,6 +224,15 @@
   },
   "outils": [
     {
+      "id": "3i0pu",
+      "nom": "Chess engine",
+      "lien": "/chess",
+      "description": "En simulateur du jeu d'échecs avec stockfish intégré",
+      "couleurFond": "#b85c38",
+      "couleurTexte": "#f5e0c8",
+      "emojis": "♟️"
+    },
+    {
       "id": "t7w92",
       "nom": "Échelles logarithmiques",
       "lien": "/logarithme",
